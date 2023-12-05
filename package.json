@@ -2,7 +2,7 @@
   "name": "node-starter",
   "private": true,
   "scripts": {
-    "test": "vitest"
+    "test": "vitest run --changed"
   },
   "workspaces": ["packages/*"],
   "version": "1.0.0",
